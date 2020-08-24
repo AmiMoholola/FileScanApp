@@ -10,13 +10,8 @@ using Serilog;
 
 namespace FileScanApp
 {
-
-    public class MarkupErrors
-    {
-    }
-
-
-    class Program
+ 
+   class Program
     {
         static void Main(string[] args)
         {
